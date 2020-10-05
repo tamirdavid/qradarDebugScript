@@ -11,4 +11,4 @@ Copy those 2 shell scripts to your QRadar console
 Execute runQRadarCheckRemote.sh with or without server ip as an argument
 
 # Step 3
-Investigation of the output
+Investigation the output
